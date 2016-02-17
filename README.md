@@ -1,2 +1,2 @@
 # TestGitHub
-Rep1
+This is Repository of sampl test project.
